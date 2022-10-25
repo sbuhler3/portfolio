@@ -1,2 +1,13 @@
 * {
-background-color: black;}
+  background-color:black;
+}
+div {
+  color:white;
+}
+div h1 {
+  font-size:4rem;
+}
+.col-sm-5 {
+  box-shadow: 0 0 4px .1em ivory;
+  font-size:2rem;
+}
